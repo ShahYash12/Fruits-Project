@@ -1,0 +1,14 @@
+{
+  "name": "fruitsproject",
+  "version": "1.0.0",
+  "description": "Project to learn Mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Surve",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.3.8"
+  }
+}
